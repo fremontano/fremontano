@@ -51,7 +51,7 @@
 <br>
 ## Encuentrame en el LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fremontano)
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fremontano](https://www.linkedin.com/in/freyder-monta%C3%B1o-perlaza-7b0181293/))
 
 
 <div align="start">
