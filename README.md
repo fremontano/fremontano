@@ -9,7 +9,7 @@
 
 <br><br>
 
-- :school: Soy `Junior` en [Ingeniería Informática](https://www.duoc.cl/) en la [Universidad Duoc UC, Padre Alonso Ovalle](https://www.duoc.cl/).
+- :school: Soy un en [Ingeniería Informática](https://www.duoc.cl/) en la [Universidad Duoc UC, Padre Alonso Ovalle](https://www.duoc.cl/).
 - :technologist: Me encanta usar el software como solución para cada `problema`.
 - :computer: Soy programador con formación en diversos cursos de `Udemy`.
 - :student: Actualmente estoy aprendiendo `Ingeniería de Software` y desarrollo web.
